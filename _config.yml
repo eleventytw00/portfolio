@@ -1,4 +1,4 @@
-remote_theme: themefisher/kross-jekyll
+theme: jekyll-theme-primer
 
 title: Musnad Alif
 description: Portfolio
